@@ -8,7 +8,7 @@ Generative Art Samples
 ![](https://d2om91rvk5nn0n.cloudfront.net/images/genuary_day2.png)
 ![](https://d2om91rvk5nn0n.cloudfront.net/images/genuary_day2_1.png)
 ![](https://d2om91rvk5nn0n.cloudfront.net/images/barymetric_subdivision.png)
-![](https://d2om91rvk5nn0n.cloudfront.net/images/Screen Shot 2021-01-03 at 1.07.33 PM.png)
+![](https://d2om91rvk5nn0n.cloudfront.net/images/Screen%20Shot%202021-01-03%20at%201.07.33%20PM.png)
 
 ## ThreeJS
 ![image (2)](https://user-images.githubusercontent.com/400614/82155892-d6537c80-982c-11ea-9104-4d1926806c12.gif)
