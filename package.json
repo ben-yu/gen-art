@@ -18,6 +18,6 @@
     "hsv2rgb": "^1.1.0",
     "nice-color-palettes": "^3.0.0",
     "regl": "^2.0.1",
-    "three": "^0.111.0"
+    "three": "^0.137.0"
   }
 }
